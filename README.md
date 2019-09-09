@@ -5,3 +5,6 @@ The main tasks were to clean data, develop a model, and make recommendations. In
 
 1. The characteristics of the clients that are more likely to buy long-term deposits and 
 2. The economic environment under which the marketing campaign is more likely to be successful
+
+# Model
+All the work is done in the Model.ipynb file, simply change the paths and run. The only exception being the R code used to do KNN imputation of missing values. Run the R script seperately and save the files
